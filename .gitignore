@@ -41,3 +41,4 @@ models/
 *.bak
 *.swp
 
+anaconda_projects/db
