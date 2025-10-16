@@ -26,13 +26,6 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data and models (optional)
-data/processed/
-models/
-*.csv
-*.tsv
-*.json
-
 # VSCode
 .vscode/
 
@@ -41,3 +34,4 @@ models/
 *.bak
 *.swp
 
+anaconda_projects/db
