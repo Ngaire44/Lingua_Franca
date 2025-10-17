@@ -35,3 +35,7 @@ env/
 *.swp
 
 anaconda_projects/db
+
+#ignore all ipynb note in notebooks
+*.ipynb
+!notebooks/**/*.ipynb
