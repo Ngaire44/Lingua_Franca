@@ -72,8 +72,7 @@ git clone https://github.com/Ngaire44/techsent.git
 cd techsent
 pip install -r requirements.txt
 streamlit run app.py
-=======
----
+
 title: Sentiment App
 emoji: 🌖
 colorFrom: purple
@@ -85,3 +84,4 @@ pinned: false
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
