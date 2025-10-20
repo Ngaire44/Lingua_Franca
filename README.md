@@ -1,7 +1,7 @@
 
-# Sentiment analysis on Apple and Google product reviews using NLP.
-
 # TechSent — Social Media Sentiment Intelligence
+
+*Sentiment analysis on Apple and Google product reviews using NLP.*
 
 A Natural Language Processing (NLP) project analyzing public sentiment toward Apple and Google using DistilBERT, deployed via Streamlit for real-time brand monitoring.
 
@@ -73,6 +73,7 @@ cd techsent
 pip install -r requirements.txt
 streamlit run app.py
 
+---
 title: Sentiment App
 emoji: 🌖
 colorFrom: purple
